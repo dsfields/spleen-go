@@ -1,0 +1,2 @@
+# spleen-go
+Dynamic filter expression parsing, formatting, and abstractions for web APIs.
